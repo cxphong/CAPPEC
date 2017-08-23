@@ -7,10 +7,6 @@
 - *Exception*:
 	- Temp/humidity is NULL
 	- Temp/humidity is Nan
-	
-- *Field*:
-    - temperatureOrigin
-    - humidityOrigin
 
 - *Call when ble receive new value, update temperatureOrigin/humidityOrigin*
     - setTemperature()
