@@ -11,9 +11,11 @@
 - *Call when ble receive new value, update temperatureOrigin/humidityOrigin*
     - setTemperature()
     - setHimidity()
+    - setBattery()
 
 - *Call to display*
     - getTemperature(usedCalibrated(boolean), F/C)
     - getHumididty(usedCalibrated(boolean), F/C)
     - getDewPoint(usedCalibrated(boolean), F/C)
     - getHeatIndex(usedCalibrated(boolean), F/C)
+    - getBattery()
