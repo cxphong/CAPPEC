@@ -10,7 +10,7 @@
     - humidity : Float
     - identify : String
     - downloadedData : ArrayList(MeasurementDataPoint)
-    -  downloadProgress : Float
+    - downloadProgress : Float
     - timer : Timer
 
     enum State {
