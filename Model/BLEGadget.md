@@ -3,4 +3,5 @@
 
 ##### Field
 	- manager : FioTManager
-	- information about services & characteristic 
+	- device : BluetoothDevice
+	- information about services & characteristic (Constant)
