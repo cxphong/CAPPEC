@@ -1,6 +1,9 @@
 ##### Description
     + Handle tasks about ble, settings
 
+##### Field 
+    + myGAdget : MyGadget
+    
 ##### Method
     + sync time
     + set log interval
