@@ -4,7 +4,7 @@
 
 ##### Field
 	- macAddress : String
-	- identifier: String
+	- identify: String
 	- temperatureRangeLeft : Float
 	- temperatureRangeRight : Float
 	- humidityRangeLeft : Float
